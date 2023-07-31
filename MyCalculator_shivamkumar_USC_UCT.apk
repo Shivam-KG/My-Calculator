@@ -1,0 +1,9 @@
+In this project, I developed a calculator app using Java and Android Studio. The app provides a user-friendly interface for performing basic mathematical operations such as addition, subtraction, multiplication, and division.
+
+The app consists of various components, including buttons for numbers and operators, a display area to show the input and result, and a logic layer to handle the calculations.
+
+I utilized the event handling mechanism provided by Android Studio to capture user input and trigger the appropriate actions. For example, when the user taps a number button, the corresponding digit is appended to the input display. Similarly, when an operator button is pressed, the app performs the calculation based on the current input and operator.
+
+To ensure accurate calculations, I implemented a robust algorithm to handle various scenarios, including handling multiple operations, handling decimal numbers, and handling division by zero. The app displays the result on the screen, allowing the user to perform consecutive calculations if desired.
+
+Overall, this calculator app provides a simple and intuitive interface for performing basic mathematical operations on an Android device. It demonstrates the use of Java and Android Studio to develop functional and user-friendly applications.
